@@ -2,6 +2,8 @@
 
 Open-source first MENA organization based in Dubai, building the MXP protocol and runtime for AI agents.
 
+<img alt="Open-source first MENA org based in Dubai" src="../assets/mxp-mena-community.png" />
+
 ## What we build
 
 - MXP Protocol: https://github.com/yafatek/mxp-protocol
@@ -18,11 +20,11 @@ Open-source first MENA organization based in Dubai, building the MXP protocol an
 
 ## Architecture
 
-<img width="1631" height="812" alt="MXP platform overview" src="https://github.com/user-attachments/assets/3e3ffb0d-15e1-452b-8401-5e788c9995be" />
+<img alt="MXP platform overview" src="../assets/mxp-architecture.png" />
 
 ## Performance
 
-<img width="944" height="406" alt="MXP performance benchmark" src="https://github.com/user-attachments/assets/7acd2550-9267-42f5-b652-c710389fcd90" />
+<img alt="MXP performance benchmark" src="../assets/mxp-performance.png" />
 
 ## Get involved
 
